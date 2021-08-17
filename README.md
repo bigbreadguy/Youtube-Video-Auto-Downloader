@@ -13,7 +13,7 @@
 
 ### 1. Clone the Repository
  ```
- pip install -r requirements.txt
+ git clone https://github.com/bigbreadguy/Youtube-Video-Auto-Downloader.git
  ```
  </br>
 
