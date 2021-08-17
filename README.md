@@ -34,7 +34,7 @@
 
 </br>
 
-### 3. Run
+### 4. Run
  **Step 1**</br>
  ```
  python search_video.py
